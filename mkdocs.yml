@@ -1,0 +1,8 @@
+site_name: "TA RTS Microservice "
+site_description: "Transamerica Workplace Spring Boot Microservice "
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
